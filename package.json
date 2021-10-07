@@ -22,7 +22,7 @@
         "type": "git",
         "url": "https://github.com/jamesgiu/react-semantic-toasts.git"
     },
-    "author": "jamesgiu",
+    "author": "<Academia de Código_> (extension by jamesgiu)",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/jamesgiu/react-semantic-toasts/issues"
