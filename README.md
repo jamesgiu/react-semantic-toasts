@@ -1,3 +1,7 @@
+Forked from https://github.com/academia-de-codigo/react-semantic-alert
+
+Added new prop for maxToasts.
+
 # React Semantic Toasts
 
 Simple and easy Semantic UI animated toast notifications for React
@@ -27,7 +31,7 @@ Import the library into your project using ES6 module syntax:
 
 ```javascript
 import { SemanticToastContainer, toast } from 'react-semantic-toasts';
-import 'react-semantic-toasts/styles/react-semantic-alert.css';
+import 'react-semantic-toasts-extension/styles/react-semantic-alert.css';
 ```
 
 Render the `SemanticToastContainer` component:
