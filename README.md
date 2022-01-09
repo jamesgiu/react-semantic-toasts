@@ -83,6 +83,15 @@ The type of animation can be specifed using an optional `animation` prop with an
 ```jsx
 <SemanticToastContainer position="top-right" />
 ```
+### Max Toasts
+
+Supply the `maxToasts` prop to `<SemanticToastContainer>` to control the amount of toasts visible at any given time.
+
+- `maxToasts` - The amount of toasts to display at once. On new toasts, the toaster will dismiss the oldest toast to say within the limit.
+
+```jsx
+<SemanticToastContainer position="top-right" maxToasts={3}/>
+```
 
 ### Toast
 
